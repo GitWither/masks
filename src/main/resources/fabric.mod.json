@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "masks",
+  "version": "${version}",
+
+  "name": "Masks",
+  "description": "Helper mod for a school project",
+  "authors": [
+    "Wither/ Daniel K."
+  ],
+
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.daniel.masks.Masks"
+    ],
+    "client": [
+      "com.daniel.masks.MasksClient"
+    ]
+  },
+  "mixins": [
+    "mod.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.8.7",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  }
+}
