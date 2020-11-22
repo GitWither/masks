@@ -16,7 +16,7 @@
       "com.daniel.masks.Masks"
     ],
     "client": [
-      "com.daniel.masks.MasksClient"
+      "com.daniel.masks.Masks"
     ]
   },
   "mixins": [

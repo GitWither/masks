@@ -1,5 +1,7 @@
 {
   "item.masks.surgical_mask": "Mascherina Chirurgica",
   "item.masks.better_mask": "Dispositivo Protezione Individuale",
-  "itemGroup.masks.masks": "Mascherine"
+  "itemGroup.masks.masks": "Mascherine (Fatto da Daniel K.)",
+  "chat.cough": "Tossisci",
+  "entity.player.cough": "Tosse"
 }
