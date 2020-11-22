@@ -1,0 +1,53 @@
+{
+  "entity.player.cough": {
+    "replace": false,
+    "subtitle": "entity.player.cough",
+    "sounds": [
+      {
+        "name": "masks:entity/player/cough/cough1",
+        "volume": 1,
+        "pitch": 1
+      },
+      {
+        "name": "masks:entity/player/cough/cough1",
+        "volume": 1,
+        "pitch": 0.9
+      },
+      {
+        "name": "masks:entity/player/cough/cough1",
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "masks:entity/player/cough/cough2",
+        "volume": 1,
+        "pitch": 0.8
+      },
+      {
+        "name": "masks:entity/player/cough/cough2",
+        "volume": 1,
+        "pitch": 0.9
+      },
+      {
+        "name": "masks:entity/player/cough/cough2",
+        "volume": 1,
+        "pitch": 1
+      },
+      {
+        "name": "masks:entity/player/cough/cough3",
+        "volume": 1,
+        "pitch": 1
+      },
+      {
+        "name": "masks:entity/player/cough/cough3",
+        "volume": 1,
+        "pitch": 0.9
+      },
+      {
+        "name": "masks:entity/player/cough/cough3",
+        "volume": 1,
+        "pitch": 0.8
+      }
+    ]
+  }
+}
