@@ -5,9 +5,8 @@
   "injectors": {
     "defaultRequire": 1
   },
-  "mixins": [
-    "ArmorFeatureRendererMixin"
-  ],
   "client": [
+    "ChatScreenButtonMixin",
+    "ArmorFeatureRendererMixin"
   ]
 }
