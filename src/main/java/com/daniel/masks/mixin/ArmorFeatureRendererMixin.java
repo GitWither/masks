@@ -1,6 +1,5 @@
 package com.daniel.masks.mixin;
 
-import com.daniel.masks.Masks;
 import com.daniel.masks.item.MaskItem;
 import net.minecraft.client.render.VertexConsumerProvider;
 import net.minecraft.client.render.entity.feature.ArmorFeatureRenderer;
